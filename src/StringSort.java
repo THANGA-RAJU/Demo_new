@@ -17,6 +17,7 @@ public class StringSort {
     	char[] charArray=s.toCharArray();
     	Arrays.sort(charArray);
     	System.out.println(charArray);
+        System.out.println("New member changed the code");
     	
     	
     	
